@@ -1,0 +1,21 @@
+"GameInfo"
+{
+ game   "BHop"
+ title   "BHop"
+ gamelogo  1
+
+ SupportsDX8     0
+ SupportsXbox360 1
+
+ FileSystem
+ {
+  SteamAppId 620  // Portal 2 has ID 620
+  ToolsAppId 211  // Hammer
+
+  SearchPaths
+  {
+   Game    |gameinfo_path|.
+   Game    portal2
+  }
+ }
+}
