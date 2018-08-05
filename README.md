@@ -2,6 +2,11 @@
 
 A portal 2 mod... yeet.
 # Status
-I am currently working on the first map, and also working on the whole thing because im the only one working on it right now.
+The first map is done screenshots coming up.
+![alt text](https://github.com/Ewber/bhop/blob/Pictures/pics/20180805145443_1.jpg)
+![alt text](https://github.com/Ewber/bhop/blob/Pictures/pics/20180805145409_1.jpg)
+![alt text](https://github.com/Ewber/bhop/blob/Pictures/pics/20180805145415_1.jpg)
+![alt text](https://github.com/Ewber/bhop/blob/Pictures/pics/20180805145421_1.jpg)
+![alt text](https://github.com/Ewber/bhop/blob/Pictures/pics/20180805145443_1.jpg)
 # Discord
 Join my discord, if you want to. https://discord.gg/uSHc82m
