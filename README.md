@@ -1,4 +1,4 @@
-![alt text](https://github.com/Ewber/bhop/blob/master/BHop-Logo.png)
+![alt text](https://github.com/Ewber/bhop/blob/master/pics/BHop-Logo.png)
 
 A portal 2 mod... yeet.
 # Status
