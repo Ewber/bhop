@@ -7,7 +7,6 @@ FIRST_MAP_WITH_POTATO_GUN <- ""
 LAST_PLAYTEST_MAP <- ""
 
 
-
 CHAPTER_TITLES <- 
 [
 	{ map = "sp_a1_intro1", title_text = "#portal2_Chapter1_Title", subtitle_text = "#portal2_Chapter1_Subtitle", displayOnSpawn = false,		displaydelay = 1.0 },
