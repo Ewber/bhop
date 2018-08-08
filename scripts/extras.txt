@@ -3,7 +3,7 @@
 	"testlevel"
 	{
 		"title"		"Open the testlevel"
-		"subtitle"	"The testlevel is here"
+		"subtitle"	"3/?"
 		"command" 	"map bhop_mod_beginning"
 	}
 	
